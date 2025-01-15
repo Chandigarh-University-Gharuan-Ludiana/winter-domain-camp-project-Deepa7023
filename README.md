@@ -1,2 +1,36 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uELM4yXj)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17724768&assignment_repo_type=AssignmentRepo)
+
+# Car Parking Management System
+
+This Project is a record maintaining application developed using C++. It uses basic concepts of OOPs and file handling.
+
+## Appendix
+
+This project uses file handling to store all the user entered data into the two database files
+Database files : </br>
+carparkdb.txt : This file stores all the information of the car and other data entered by the user. </br>
+1. carparkexpensedb.txt : This file contains the expenses accumulated for the car in the time being. </br>
+2. Don't change the data inside of the database file if it is not understandable by you.
+
+## Authors
+
+- [@amanhex](https://www.github.com/amanhex)
+
+## Installation
+
+Download this project
+
+```
+run carparking.cpp
+(using VSCode is recommended)
+```
+    
+## Demo
+
+![Demo](https://github.com/amanhex/Car-Parking-Management-System/blob/main/demo.gif)
+## Contributing
+
+Contributions are always welcome!
+
+## Tech Stack
+
+**Language:** C++
